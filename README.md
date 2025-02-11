@@ -1,3 +1,27 @@
+Flashcard Arithmetic Practice App 📚➕➖✖️➗
+This is a simple React application I built to provide my sister with a tool to practice arithmetic. It presents random math problems based on selected operations and number ranges.
+
+🛠 Tech Stack
+React ⚛️ – For building the UI.
+Ant Design (AntD) 🎨 – For a clean and responsive user interface.
+
+🚀 Features
+Choose the number of questions.
+Set a custom range for numbers.
+Select operations (+, -, ×, ÷) to practice.
+Simple and user-friendly UI.
+
+💻 Getting Started
+Clone the repository:
+git clone https://github.com/mtvdonpablo/flashcard.git
+Navigate into the project:
+cd flashcard
+Install dependencies:
+npm install
+Start the app:
+npm start
+Open http://localhost:3000 in your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
