@@ -1,4 +1,4 @@
-Flashcard Arithmetic Practice App 📚➕➖✖️➗
+# Flashcard Arithmetic Practice App 📚➕➖✖️➗
 This is a simple React application I built to provide my sister with a tool to practice arithmetic. It presents random math problems based on selected operations and number ranges.
 
 🛠 Tech Stack
